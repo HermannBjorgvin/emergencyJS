@@ -8,6 +8,6 @@
 
 Number.emergency = function(){
 	return '01189998819991197253';
-}
+};
 
 // Code (albeit not the most complex) by: Hermann.is
